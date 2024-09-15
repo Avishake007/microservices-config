@@ -1,9 +1,9 @@
 spring:
   application:
-      name=Config Server
+      name: Config Server
 eureka:
   client:
-      register-with-eureka=true
-      fetch-registry=true
+      register-with-eureka: true
+      fetch-registry: true
   instance:
-      prefer-ip-address=true
+      prefer-ip-address: true
